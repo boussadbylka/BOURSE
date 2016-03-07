@@ -8,9 +8,7 @@ public class Main {
 		System.out.println("teestett");
 		System.out.println("hello world");
 		System.out.println("teestett");System.out.println("hello world");
-		System.out.println("teestett");
-		System.out.println("hello world");
-		System.out.println("teestett");
+		
 
 	}
 
